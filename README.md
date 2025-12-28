@@ -1,4 +1,5 @@
 Titanic SQL Analysis Project
+
 ![status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Overview
