@@ -1,4 +1,6 @@
 Titanic SQL Analysis Project
+![status](https://img/shields.io/badge/Status-Completed-brightgreen)
+
 Overview
 This project analyzes the Titanic passenger dataset using SQL, progressing from beginner concepts to intermediate analytical techniques. It demonstrates skills in data cleaning, database setup, querying, aggregations, window functions, and CTE‑based analysis.
 A full breakdown of the project is available in the /docs folder.
