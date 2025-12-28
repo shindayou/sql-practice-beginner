@@ -17,11 +17,9 @@ SQL-PRACTICE-BEGINNER/
 -    -load_data.py
 - sql
 -    -create_table.sql
--    -load_data.sql
 -    -analysis_queries.sql
 - docs/
 - README.md
-- titanic.db
 
 
 How to Run the Project
